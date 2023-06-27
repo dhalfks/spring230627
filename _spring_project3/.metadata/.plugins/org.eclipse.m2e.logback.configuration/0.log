@@ -1,0 +1,462 @@
+2023-06-20 14:11:15,230 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-06-20 14:11:30,166 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.8.0/maven-compiler-plugin-3.8.0.jar
+2023-06-20 14:11:30,228 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.8.0/maven-compiler-plugin-3.8.0.jar
+2023-06-20 14:11:30,956 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.8.0/maven-compiler-plugin-3.8.0.pom
+2023-06-20 14:11:30,972 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.8.0/maven-compiler-plugin-3.8.0.pom
+2023-06-20 14:11:31,003 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/32/maven-plugins-32.pom
+2023-06-20 14:11:31,003 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/32/maven-plugins-32.pom
+2023-06-20 14:11:31,034 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/32/maven-parent-32.pom
+2023-06-20 14:11:31,050 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/32/maven-parent-32.pom
+2023-06-20 14:11:31,081 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/20/apache-20.pom
+2023-06-20 14:11:31,081 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/20/apache-20.pom
+2023-06-20 14:11:31,191 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.7.1/plexus-component-annotations-1.7.1.pom
+2023-06-20 14:11:31,206 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.7.1/plexus-component-annotations-1.7.1.pom
+2023-06-20 14:11:31,222 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/1.7.1/plexus-containers-1.7.1.pom
+2023-06-20 14:11:31,222 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/1.7.1/plexus-containers-1.7.1.pom
+2023-06-20 14:11:31,362 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.2.1/maven-shared-utils-3.2.1.pom
+2023-06-20 14:11:31,378 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.2.1/maven-shared-utils-3.2.1.pom
+2023-06-20 14:11:31,409 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-incremental/1.1/maven-shared-incremental-1.1.pom
+2023-06-20 14:11:31,425 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-incremental/1.1/maven-shared-incremental-1.1.pom
+2023-06-20 14:11:31,440 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/19/maven-shared-components-19.pom
+2023-06-20 14:11:31,456 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/19/maven-shared-components-19.pom
+2023-06-20 14:11:31,472 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/23/maven-parent-23.pom
+2023-06-20 14:11:31,487 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/23/maven-parent-23.pom
+2023-06-20 14:11:31,519 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.2.1/maven-plugin-api-2.2.1.pom
+2023-06-20 14:11:31,534 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.2.1/maven-plugin-api-2.2.1.pom
+2023-06-20 14:11:31,550 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven/2.2.1/maven-2.2.1.pom
+2023-06-20 14:11:31,565 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven/2.2.1/maven-2.2.1.pom
+2023-06-20 14:11:31,581 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/11/maven-parent-11.pom
+2023-06-20 14:11:31,597 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/11/maven-parent-11.pom
+2023-06-20 14:11:31,612 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/5/apache-5.pom
+2023-06-20 14:11:31,612 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/5/apache-5.pom
+2023-06-20 14:11:31,628 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/2.2.1/maven-core-2.2.1.pom
+2023-06-20 14:11:31,644 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/2.2.1/maven-core-2.2.1.pom
+2023-06-20 14:11:31,675 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.2.1/maven-settings-2.2.1.pom
+2023-06-20 14:11:31,690 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.2.1/maven-settings-2.2.1.pom
+2023-06-20 14:11:31,706 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.2.1/maven-model-2.2.1.pom
+2023-06-20 14:11:31,722 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.2.1/maven-model-2.2.1.pom
+2023-06-20 14:11:31,737 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.11/plexus-interpolation-1.11.pom
+2023-06-20 14:11:31,753 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.11/plexus-interpolation-1.11.pom
+2023-06-20 14:11:31,769 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-parameter-documenter/2.2.1/maven-plugin-parameter-documenter-2.2.1.pom
+2023-06-20 14:11:31,784 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-parameter-documenter/2.2.1/maven-plugin-parameter-documenter-2.2.1.pom
+2023-06-20 14:11:31,800 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-jdk14/1.5.6/slf4j-jdk14-1.5.6.pom
+2023-06-20 14:11:31,831 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-jdk14/1.5.6/slf4j-jdk14-1.5.6.pom
+2023-06-20 14:11:31,847 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.5.6/slf4j-parent-1.5.6.pom
+2023-06-20 14:11:31,862 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.5.6/slf4j-parent-1.5.6.pom
+2023-06-20 14:11:31,862 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.5.6/slf4j-api-1.5.6.pom
+2023-06-20 14:11:31,878 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.5.6/slf4j-api-1.5.6.pom
+2023-06-20 14:11:31,893 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.5.6/jcl-over-slf4j-1.5.6.pom
+2023-06-20 14:11:31,909 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.5.6/jcl-over-slf4j-1.5.6.pom
+2023-06-20 14:11:31,925 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.2.1/maven-profile-2.2.1.pom
+2023-06-20 14:11:31,940 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.2.1/maven-profile-2.2.1.pom
+2023-06-20 14:11:31,956 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.2.1/maven-artifact-2.2.1.pom
+2023-06-20 14:11:31,972 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.2.1/maven-artifact-2.2.1.pom
+2023-06-20 14:11:31,987 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.2.1/maven-repository-metadata-2.2.1.pom
+2023-06-20 14:11:32,003 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.2.1/maven-repository-metadata-2.2.1.pom
+2023-06-20 14:11:32,018 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-error-diagnostics/2.2.1/maven-error-diagnostics-2.2.1.pom
+2023-06-20 14:11:32,034 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-error-diagnostics/2.2.1/maven-error-diagnostics-2.2.1.pom
+2023-06-20 14:11:32,065 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.2.1/maven-project-2.2.1.pom
+2023-06-20 14:11:32,081 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.2.1/maven-project-2.2.1.pom
+2023-06-20 14:11:32,097 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.2.1/maven-artifact-manager-2.2.1.pom
+2023-06-20 14:11:32,143 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.2.1/maven-artifact-manager-2.2.1.pom
+2023-06-20 14:11:32,159 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/backport-util-concurrent/backport-util-concurrent/3.1/backport-util-concurrent-3.1.pom
+2023-06-20 14:11:32,175 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/backport-util-concurrent/backport-util-concurrent/3.1/backport-util-concurrent-3.1.pom
+2023-06-20 14:11:32,190 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.2.1/maven-plugin-registry-2.2.1.pom
+2023-06-20 14:11:32,211 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.2.1/maven-plugin-registry-2.2.1.pom
+2023-06-20 14:11:32,225 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.2.1/maven-plugin-descriptor-2.2.1.pom
+2023-06-20 14:11:32,256 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.2.1/maven-plugin-descriptor-2.2.1.pom
+2023-06-20 14:11:32,272 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-monitor/2.2.1/maven-monitor-2.2.1.pom
+2023-06-20 14:11:32,287 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-monitor/2.2.1/maven-monitor-2.2.1.pom
+2023-06-20 14:11:32,319 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/0.1/maven-shared-utils-0.1.pom
+2023-06-20 14:11:32,334 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/0.1/maven-shared-utils-0.1.pom
+2023-06-20 14:11:32,350 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/18/maven-shared-components-18.pom
+2023-06-20 14:11:32,381 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/18/maven-shared-components-18.pom
+2023-06-20 14:11:32,412 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-java/0.9.10/plexus-java-0.9.10.pom
+2023-06-20 14:11:32,412 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-java/0.9.10/plexus-java-0.9.10.pom
+2023-06-20 14:11:32,428 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-languages/0.9.10/plexus-languages-0.9.10.pom
+2023-06-20 14:11:32,444 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-languages/0.9.10/plexus-languages-0.9.10.pom
+2023-06-20 14:11:32,459 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.2/asm-6.2.pom
+2023-06-20 14:11:32,475 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.2/asm-6.2.pom
+2023-06-20 14:11:32,490 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M9/qdox-2.0-M9.pom
+2023-06-20 14:11:32,506 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M9/qdox-2.0-M9.pom
+2023-06-20 14:11:32,522 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.4/plexus-compiler-api-2.8.4.pom
+2023-06-20 14:11:32,522 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.4/plexus-compiler-api-2.8.4.pom
+2023-06-20 14:11:32,537 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.8.4/plexus-compiler-2.8.4.pom
+2023-06-20 14:11:32,553 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.8.4/plexus-compiler-2.8.4.pom
+2023-06-20 14:11:32,569 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/4.0/plexus-components-4.0.pom
+2023-06-20 14:11:32,584 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/4.0/plexus-components-4.0.pom
+2023-06-20 14:11:32,600 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.22/plexus-utils-3.0.22.pom
+2023-06-20 14:11:32,600 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.22/plexus-utils-3.0.22.pom
+2023-06-20 14:11:32,615 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.4/plexus-compiler-manager-2.8.4.pom
+2023-06-20 14:11:32,631 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.4/plexus-compiler-manager-2.8.4.pom
+2023-06-20 14:11:32,647 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.4/plexus-compiler-javac-2.8.4.pom
+2023-06-20 14:11:32,662 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.4/plexus-compiler-javac-2.8.4.pom
+2023-06-20 14:11:32,662 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.8.4/plexus-compilers-2.8.4.pom
+2023-06-20 14:11:32,678 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.8.4/plexus-compilers-2.8.4.pom
+2023-06-20 14:11:32,709 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.14/plexus-interpolation-1.14.jar
+2023-06-20 14:11:32,725 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.7.1/plexus-component-annotations-1.7.1.jar
+2023-06-20 14:11:32,725 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-incremental/1.1/maven-shared-incremental-1.1.jar
+2023-06-20 14:11:32,725 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.2.1/maven-shared-utils-3.2.1.jar
+2023-06-20 14:11:32,725 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.4/plexus-utils-2.0.4.jar
+2023-06-20 14:11:32,740 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.7.1/plexus-component-annotations-1.7.1.jar
+2023-06-20 14:11:32,740 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-incremental/1.1/maven-shared-incremental-1.1.jar
+2023-06-20 14:11:32,740 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.14/plexus-interpolation-1.14.jar
+2023-06-20 14:11:32,740 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.2.1/maven-shared-utils-3.2.1.jar
+2023-06-20 14:11:32,756 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M9/qdox-2.0-M9.jar
+2023-06-20 14:11:32,756 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.2/asm-6.2.jar
+2023-06-20 14:11:32,756 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-java/0.9.10/plexus-java-0.9.10.jar
+2023-06-20 14:11:32,756 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.4/plexus-utils-2.0.4.jar
+2023-06-20 14:11:32,772 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.4/plexus-compiler-api-2.8.4.jar
+2023-06-20 14:11:32,772 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.4/plexus-compiler-manager-2.8.4.jar
+2023-06-20 14:11:32,772 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.2/asm-6.2.jar
+2023-06-20 14:11:32,772 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-java/0.9.10/plexus-java-0.9.10.jar
+2023-06-20 14:11:32,787 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.4/plexus-compiler-api-2.8.4.jar
+2023-06-20 14:11:32,787 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.4/plexus-compiler-javac-2.8.4.jar
+2023-06-20 14:11:32,787 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.4/plexus-compiler-manager-2.8.4.jar
+2023-06-20 14:11:32,787 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M9/qdox-2.0-M9.jar
+2023-06-20 14:11:32,803 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.4/plexus-compiler-javac-2.8.4.jar
+2023-06-20 14:11:33,584 [Worker-6: Updating Maven Dependencies] WARN  o.e.a.i.i.DefaultRepositoryEventDispatcher - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener
+java.util.ConcurrentModificationException: null
+	at java.base/java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1043)
+	at java.base/java.util.ArrayList$Itr.next(ArrayList.java:997)
+	at org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener.notifyListeners(EclipseRepositoryListener.java:56)
+	at org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener.artifactDownloaded(EclipseRepositoryListener.java:43)
+	at org.eclipse.aether.internal.impl.DefaultRepositoryEventDispatcher.dispatch(DefaultRepositoryEventDispatcher.java:121)
+	at org.eclipse.aether.internal.impl.DefaultRepositoryEventDispatcher.dispatch(DefaultRepositoryEventDispatcher.java:90)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.artifactDownloaded(DefaultArtifactResolver.java:693)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.evaluateDownloads(DefaultArtifactResolver.java:636)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:524)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:401)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:229)
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveDependencies(DefaultRepositorySystem.java:340)
+	at org.apache.maven.plugin.internal.DefaultPluginDependenciesResolver.resolveInternal(DefaultPluginDependenciesResolver.java:213)
+	at org.apache.maven.plugin.internal.DefaultPluginDependenciesResolver.resolve(DefaultPluginDependenciesResolver.java:152)
+	at org.eclipse.m2e.core.internal.project.registry.EclipsePluginDependenciesResolver.resolve(EclipsePluginDependenciesResolver.java:61)
+	at org.apache.maven.plugin.internal.DefaultMavenPluginManager.createPluginRealm(DefaultMavenPluginManager.java:404)
+	at org.apache.maven.plugin.internal.DefaultMavenPluginManager.setupPluginRealm(DefaultMavenPluginManager.java:374)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.getPluginRealm(DefaultBuildPluginManager.java:234)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.getMojoParameterValue(MavenImpl.java:952)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$5(MavenImpl.java:985)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.getMojoParameterValue(MavenImpl.java:984)
+	at org.eclipse.m2e.core.internal.lifecyclemapping.LifecycleMappingFactory.applyParametersFilter(LifecycleMappingFactory.java:694)
+	at org.eclipse.m2e.core.internal.lifecyclemapping.LifecycleMappingFactory.calculateEffectiveLifecycleMappingMetadata0(LifecycleMappingFactory.java:597)
+	at org.eclipse.m2e.core.internal.lifecyclemapping.LifecycleMappingFactory.calculateEffectiveLifecycleMappingMetadata(LifecycleMappingFactory.java:534)
+	at org.eclipse.m2e.core.internal.lifecyclemapping.LifecycleMappingFactory.calculateEffectiveLifecycleMappingMetadata(LifecycleMappingFactory.java:258)
+	at org.eclipse.m2e.core.internal.lifecyclemapping.LifecycleMappingFactory.calculateLifecycleMapping(LifecycleMappingFactory.java:190)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.setupLifecycleMapping(ProjectRegistryManager.java:614)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:533)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$3(ProjectRegistryManager.java:514)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:512)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:364)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$4(ProjectRegistryRefreshJob.java:141)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:140)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-06-20 14:11:35,815 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.myweb:www:1.0.0-BUILD-SNAPSHOT @ D:\_spring_workspace\_spring_project3\_java_config_security\pom.xml.
+2023-06-20 14:11:35,815 [Worker-2: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.myweb:www:1.0.0-BUILD-SNAPSHOT @ D:\_spring_workspace\_spring_project3\_java_config_security\pom.xml.
+2023-06-20 14:11:35,878 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.13.2/junit-4.13.2.pom
+2023-06-20 14:11:35,891 [Worker-2: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.13.2/junit-4.13.2.pom
+2023-06-20 14:11:35,901 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.13.2/junit-4.13.2.pom
+2023-06-20 14:11:35,907 [Worker-2: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.13.2/junit-4.13.2.pom
+2023-06-20 14:11:35,911 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.pom
+2023-06-20 14:11:35,919 [Worker-2: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.pom
+2023-06-20 14:11:35,920 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.pom
+2023-06-20 14:11:35,929 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.3/hamcrest-parent-1.3.pom
+2023-06-20 14:11:35,930 [Worker-2: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.pom
+2023-06-20 14:11:35,937 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.3/hamcrest-parent-1.3.pom
+2023-06-20 14:11:35,939 [Worker-2: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.3/hamcrest-parent-1.3.pom
+2023-06-20 14:11:35,946 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.22/lombok-1.18.22.pom
+2023-06-20 14:11:35,949 [Worker-2: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.3/hamcrest-parent-1.3.pom
+2023-06-20 14:11:35,954 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.22/lombok-1.18.22.pom
+2023-06-20 14:11:35,967 [Worker-2: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.22/lombok-1.18.22.pom
+2023-06-20 14:11:35,977 [Worker-2: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.22/lombok-1.18.22.pom
+2023-06-20 14:11:36,423 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.13.2/junit-4.13.2.jar
+2023-06-20 14:11:36,433 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+2023-06-20 14:11:36,433 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.22/lombok-1.18.22.jar
+2023-06-20 14:11:36,433 [AetherRepositoryConnector-repo.maven.apache.org-2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+2023-06-20 14:11:36,445 [AetherRepositoryConnector-repo.maven.apache.org-2-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.22/lombok-1.18.22.jar
+2023-06-20 14:11:36,445 [AetherRepositoryConnector-repo.maven.apache.org-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.13.2/junit-4.13.2.jar
+2023-06-20 14:11:36,482 [AetherRepositoryConnector-repo.maven.apache.org-2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+2023-06-20 14:11:36,488 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+2023-06-20 14:11:36,496 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.13.2/junit-4.13.2.jar
+2023-06-20 14:11:36,521 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.22/lombok-1.18.22.jar
+2023-06-20 14:11:36,582 [AetherRepositoryConnector-repo.maven.apache.org-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.13.2/junit-4.13.2.jar
+2023-06-20 14:11:37,007 [AetherRepositoryConnector-repo.maven.apache.org-2-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.22/lombok-1.18.22.jar
+2023-06-20 14:11:37,539 [Worker-2: Building] WARN  o.e.a.i.i.DefaultRepositoryEventDispatcher - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener
+java.util.ConcurrentModificationException: null
+	at java.base/java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1043)
+	at java.base/java.util.ArrayList$Itr.next(ArrayList.java:997)
+	at org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener.notifyListeners(EclipseRepositoryListener.java:56)
+	at org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener.artifactDownloaded(EclipseRepositoryListener.java:43)
+	at org.eclipse.aether.internal.impl.DefaultRepositoryEventDispatcher.dispatch(DefaultRepositoryEventDispatcher.java:121)
+	at org.eclipse.aether.internal.impl.DefaultRepositoryEventDispatcher.dispatch(DefaultRepositoryEventDispatcher.java:90)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.artifactDownloaded(DefaultArtifactResolver.java:693)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.evaluateDownloads(DefaultArtifactResolver.java:636)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:524)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:401)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:229)
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveDependencies(DefaultRepositorySystem.java:340)
+	at org.apache.maven.project.DefaultProjectDependenciesResolver.resolve(DefaultProjectDependenciesResolver.java:202)
+	at org.apache.maven.project.DefaultProjectBuilder.resolveDependencies(DefaultProjectBuilder.java:227)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:200)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:124)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProject(MavenImpl.java:630)
+	at org.eclipse.m2e.core.internal.project.registry.DefaultMavenDependencyResolver.resolveProjectDependencies(DefaultMavenDependencyResolver.java:65)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:550)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$3(ProjectRegistryManager.java:514)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:512)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:364)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:315)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:151)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:88)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:853)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:232)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:281)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:334)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:337)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:389)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:410)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:160)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:251)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-06-20 14:11:37,794 [Worker-2: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-eclipse-plugin/3.8.0/maven-eclipse-plugin-3.8.0.pom
+2023-06-20 14:11:37,836 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-eclipse-plugin:jar:3.8.0 is missing, no dependency information available
+2023-06-20 14:11:37,846 [Worker-2: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-eclipse-plugin/3.8.0/maven-eclipse-plugin-3.8.0.jar
+2023-06-20 14:11:37,846 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-eclipse-plugin:3.8.0: Plugin org.apache.maven.plugins:maven-eclipse-plugin:3.8.0 or one of its dependencies could not be resolved: Could not find artifact org.apache.maven.plugins:maven-eclipse-plugin:jar:3.8.0 in central (https://repo.maven.apache.org/maven2)
+2023-06-20 14:11:37,869 [Worker-2: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/mojo/exec-maven-plugin/2.5/exec-maven-plugin-2.5.pom
+2023-06-20 14:11:37,869 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:exec-maven-plugin:jar:2.5 is missing, no dependency information available
+2023-06-20 14:11:37,878 [Worker-2: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/mojo/exec-maven-plugin/2.5/exec-maven-plugin-2.5.jar
+2023-06-20 14:11:37,878 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:exec-maven-plugin:2.5: Plugin org.codehaus.mojo:exec-maven-plugin:2.5 or one of its dependencies could not be resolved: Could not find artifact org.codehaus.mojo:exec-maven-plugin:jar:2.5 in central (https://repo.maven.apache.org/maven2)
+2023-06-20 14:11:37,887 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-eclipse-plugin:jar:3.8.0 is missing, no dependency information available
+2023-06-20 14:11:37,887 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-eclipse-plugin:3.8.0: Plugin org.apache.maven.plugins:maven-eclipse-plugin:3.8.0 or one of its dependencies could not be resolved: org.apache.maven.plugins:maven-eclipse-plugin:jar:3.8.0 was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
+2023-06-20 14:11:37,888 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:exec-maven-plugin:jar:2.5 is missing, no dependency information available
+2023-06-20 14:11:37,888 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:exec-maven-plugin:2.5: Plugin org.codehaus.mojo:exec-maven-plugin:2.5 or one of its dependencies could not be resolved: org.codehaus.mojo:exec-maven-plugin:jar:2.5 was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
+2023-06-20 14:11:39,292 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:11:39,296 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2023-06-20 14:11:39,311 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:11:39,312 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-20 14:11:39,818 [Worker-4: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.myweb:www:1.0.0-BUILD-SNAPSHOT @ D:\_spring_workspace\_spring_project3\_java_config_security\pom.xml.
+2023-06-20 14:11:40,237 [Worker-4: Updating Maven Dependencies] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-eclipse-plugin:jar:3.8.0 is missing, no dependency information available
+2023-06-20 14:11:40,238 [Worker-4: Updating Maven Dependencies] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-eclipse-plugin:3.8.0: Plugin org.apache.maven.plugins:maven-eclipse-plugin:3.8.0 or one of its dependencies could not be resolved: org.apache.maven.plugins:maven-eclipse-plugin:jar:3.8.0 was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
+2023-06-20 14:11:40,239 [Worker-4: Updating Maven Dependencies] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:exec-maven-plugin:jar:2.5 is missing, no dependency information available
+2023-06-20 14:11:40,241 [Worker-4: Updating Maven Dependencies] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:exec-maven-plugin:2.5: Plugin org.codehaus.mojo:exec-maven-plugin:2.5 or one of its dependencies could not be resolved: org.codehaus.mojo:exec-maven-plugin:jar:2.5 was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
+2023-06-20 14:11:40,242 [Worker-4: Updating Maven Dependencies] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-eclipse-plugin:jar:3.8.0 is missing, no dependency information available
+2023-06-20 14:11:40,243 [Worker-4: Updating Maven Dependencies] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-eclipse-plugin:3.8.0: Plugin org.apache.maven.plugins:maven-eclipse-plugin:3.8.0 or one of its dependencies could not be resolved: org.apache.maven.plugins:maven-eclipse-plugin:jar:3.8.0 was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
+2023-06-20 14:11:40,244 [Worker-4: Updating Maven Dependencies] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:exec-maven-plugin:jar:2.5 is missing, no dependency information available
+2023-06-20 14:11:40,245 [Worker-4: Updating Maven Dependencies] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:exec-maven-plugin:2.5: Plugin org.codehaus.mojo:exec-maven-plugin:2.5 or one of its dependencies could not be resolved: org.codehaus.mojo:exec-maven-plugin:jar:2.5 was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
+2023-06-20 14:11:40,438 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.13.2/junit-4.13.2-sources.jar
+2023-06-20 14:11:40,466 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.13.2/junit-4.13.2-sources.jar
+2023-06-20 14:11:40,711 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:4.13.2
+2023-06-20 14:11:41,240 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar
+2023-06-20 14:11:41,254 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar
+2023-06-20 14:11:41,405 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hamcrest:hamcrest-core:1.3
+2023-06-20 14:11:41,432 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.22/lombok-1.18.22-sources.jar
+2023-06-20 14:11:41,487 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.22/lombok-1.18.22-sources.jar
+2023-06-20 14:11:41,647 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.projectlombok:lombok:1.18.22
+2023-06-20 14:11:45,294 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:11:45,297 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2023-06-20 14:11:45,310 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:11:45,311 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-20 14:11:47,415 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:11:47,415 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:11:47,415 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:11:47,415 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:11:55,310 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:11:55,311 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2023-06-20 14:11:55,333 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:11:55,334 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-20 14:11:55,338 [Worker-4: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of _java_config_security
+2023-06-20 14:11:55,338 [Worker-4: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for _java_config_security
+2023-06-20 14:11:55,340 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-eclipse-plugin:jar:3.8.0 is missing, no dependency information available
+2023-06-20 14:11:55,340 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-eclipse-plugin:3.8.0: Plugin org.apache.maven.plugins:maven-eclipse-plugin:3.8.0 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-eclipse-plugin:jar:3.8.0 has not been downloaded from it before.
+2023-06-20 14:11:55,341 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:exec-maven-plugin:jar:2.5 is missing, no dependency information available
+2023-06-20 14:11:55,341 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:exec-maven-plugin:2.5: Plugin org.codehaus.mojo:exec-maven-plugin:2.5 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:exec-maven-plugin:jar:2.5 has not been downloaded from it before.
+2023-06-20 14:11:55,347 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-eclipse-plugin:jar:3.8.0 is missing, no dependency information available
+2023-06-20 14:11:55,348 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-eclipse-plugin:3.8.0: Plugin org.apache.maven.plugins:maven-eclipse-plugin:3.8.0 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-eclipse-plugin:jar:3.8.0 has not been downloaded from it before.
+2023-06-20 14:11:55,349 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:exec-maven-plugin:jar:2.5 is missing, no dependency information available
+2023-06-20 14:11:55,349 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:exec-maven-plugin:2.5: Plugin org.codehaus.mojo:exec-maven-plugin:2.5 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:exec-maven-plugin:jar:2.5 has not been downloaded from it before.
+2023-06-20 14:11:55,353 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:12:51,232 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:12:51,233 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:12:51,233 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:12:51,234 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:13:07,445 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:13:07,446 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:13:07,446 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:13:07,447 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:13:09,845 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:13:09,846 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2023-06-20 14:13:09,853 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:13:09,854 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-20 14:13:55,734 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.myweb:www:1.0.0-BUILD-SNAPSHOT @ D:\_spring_workspace\_spring_project3\_java_config_security\pom.xml.
+2023-06-20 14:13:56,012 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-eclipse-plugin:jar:3.8.0 is missing, no dependency information available
+2023-06-20 14:13:56,013 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-eclipse-plugin:3.8.0: Plugin org.apache.maven.plugins:maven-eclipse-plugin:3.8.0 or one of its dependencies could not be resolved: org.apache.maven.plugins:maven-eclipse-plugin:jar:3.8.0 was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
+2023-06-20 14:13:56,014 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:exec-maven-plugin:jar:2.5 is missing, no dependency information available
+2023-06-20 14:13:56,015 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:exec-maven-plugin:2.5: Plugin org.codehaus.mojo:exec-maven-plugin:2.5 or one of its dependencies could not be resolved: org.codehaus.mojo:exec-maven-plugin:jar:2.5 was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
+2023-06-20 14:13:56,016 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-eclipse-plugin:jar:3.8.0 is missing, no dependency information available
+2023-06-20 14:13:56,016 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-eclipse-plugin:3.8.0: Plugin org.apache.maven.plugins:maven-eclipse-plugin:3.8.0 or one of its dependencies could not be resolved: org.apache.maven.plugins:maven-eclipse-plugin:jar:3.8.0 was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
+2023-06-20 14:13:56,017 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:exec-maven-plugin:jar:2.5 is missing, no dependency information available
+2023-06-20 14:13:56,017 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:exec-maven-plugin:2.5: Plugin org.codehaus.mojo:exec-maven-plugin:2.5 or one of its dependencies could not be resolved: org.codehaus.mojo:exec-maven-plugin:jar:2.5 was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
+2023-06-20 14:13:56,898 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:13:56,899 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:13:56,901 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:13:56,901 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:13:56,901 [Worker-6: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of _java_config_security
+2023-06-20 14:13:56,901 [Worker-6: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for _java_config_security
+2023-06-20 14:13:56,902 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-eclipse-plugin:jar:3.8.0 is missing, no dependency information available
+2023-06-20 14:13:56,903 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-eclipse-plugin:3.8.0: Plugin org.apache.maven.plugins:maven-eclipse-plugin:3.8.0 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-eclipse-plugin:jar:3.8.0 has not been downloaded from it before.
+2023-06-20 14:13:56,903 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:exec-maven-plugin:jar:2.5 is missing, no dependency information available
+2023-06-20 14:13:56,903 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:exec-maven-plugin:2.5: Plugin org.codehaus.mojo:exec-maven-plugin:2.5 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:exec-maven-plugin:jar:2.5 has not been downloaded from it before.
+2023-06-20 14:13:56,904 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-eclipse-plugin:jar:3.8.0 is missing, no dependency information available
+2023-06-20 14:13:56,904 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-eclipse-plugin:3.8.0: Plugin org.apache.maven.plugins:maven-eclipse-plugin:3.8.0 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-eclipse-plugin:jar:3.8.0 has not been downloaded from it before.
+2023-06-20 14:13:56,904 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:exec-maven-plugin:jar:2.5 is missing, no dependency information available
+2023-06-20 14:13:56,904 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:exec-maven-plugin:2.5: Plugin org.codehaus.mojo:exec-maven-plugin:2.5 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:exec-maven-plugin:jar:2.5 has not been downloaded from it before.
+2023-06-20 14:13:56,906 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:13:58,521 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:13:58,522 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2023-06-20 14:13:58,536 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:13:58,536 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-20 14:14:11,237 [Worker-2: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-06-20 14:14:11,386 [Worker-2: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.myweb:www:1.0.0-BUILD-SNAPSHOT @ D:\_spring_workspace\_spring_project3\_java_config_security\pom.xml.
+2023-06-20 14:14:11,619 [Worker-2: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-eclipse-plugin:jar:3.8.0 is missing, no dependency information available
+2023-06-20 14:14:11,620 [Worker-2: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-eclipse-plugin:3.8.0: Plugin org.apache.maven.plugins:maven-eclipse-plugin:3.8.0 or one of its dependencies could not be resolved: org.apache.maven.plugins:maven-eclipse-plugin:jar:3.8.0 was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
+2023-06-20 14:14:11,621 [Worker-2: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:exec-maven-plugin:jar:2.5 is missing, no dependency information available
+2023-06-20 14:14:11,621 [Worker-2: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:exec-maven-plugin:2.5: Plugin org.codehaus.mojo:exec-maven-plugin:2.5 or one of its dependencies could not be resolved: org.codehaus.mojo:exec-maven-plugin:jar:2.5 was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
+2023-06-20 14:14:11,622 [Worker-2: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-eclipse-plugin:jar:3.8.0 is missing, no dependency information available
+2023-06-20 14:14:11,622 [Worker-2: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-eclipse-plugin:3.8.0: Plugin org.apache.maven.plugins:maven-eclipse-plugin:3.8.0 or one of its dependencies could not be resolved: org.apache.maven.plugins:maven-eclipse-plugin:jar:3.8.0 was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
+2023-06-20 14:14:11,623 [Worker-2: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:exec-maven-plugin:jar:2.5 is missing, no dependency information available
+2023-06-20 14:14:11,623 [Worker-2: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:exec-maven-plugin:2.5: Plugin org.codehaus.mojo:exec-maven-plugin:2.5 or one of its dependencies could not be resolved: org.codehaus.mojo:exec-maven-plugin:jar:2.5 was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
+2023-06-20 14:14:12,186 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /_java_config_security/src/main/java
+2023-06-20 14:14:12,186 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /_java_config_security/src/main/resources
+2023-06-20 14:14:12,187 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /_java_config_security/src/test/java
+2023-06-20 14:14:12,187 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /_java_config_security/src/test/resources
+2023-06-20 14:14:13,074 [Worker-2: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-eclipse-plugin:jar:3.8.0 is missing, no dependency information available
+2023-06-20 14:14:13,075 [Worker-2: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-eclipse-plugin:3.8.0: Plugin org.apache.maven.plugins:maven-eclipse-plugin:3.8.0 or one of its dependencies could not be resolved: org.apache.maven.plugins:maven-eclipse-plugin:jar:3.8.0 was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
+2023-06-20 14:14:13,077 [Worker-2: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:exec-maven-plugin:jar:2.5 is missing, no dependency information available
+2023-06-20 14:14:13,078 [Worker-2: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:exec-maven-plugin:2.5: Plugin org.codehaus.mojo:exec-maven-plugin:2.5 or one of its dependencies could not be resolved: org.codehaus.mojo:exec-maven-plugin:jar:2.5 was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
+2023-06-20 14:14:13,079 [Worker-2: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-eclipse-plugin:jar:3.8.0 is missing, no dependency information available
+2023-06-20 14:14:13,080 [Worker-2: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-eclipse-plugin:3.8.0: Plugin org.apache.maven.plugins:maven-eclipse-plugin:3.8.0 or one of its dependencies could not be resolved: org.apache.maven.plugins:maven-eclipse-plugin:jar:3.8.0 was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
+2023-06-20 14:14:13,081 [Worker-2: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:exec-maven-plugin:jar:2.5 is missing, no dependency information available
+2023-06-20 14:14:13,082 [Worker-2: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:exec-maven-plugin:2.5: Plugin org.codehaus.mojo:exec-maven-plugin:2.5 or one of its dependencies could not be resolved: org.codehaus.mojo:exec-maven-plugin:jar:2.5 was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
+2023-06-20 14:14:13,273 [Worker-2: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for _java_config_security
+2023-06-20 14:14:13,274 [Worker-2: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2023-06-20 14:14:14,351 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:14:14,353 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2023-06-20 14:14:14,365 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:14:14,365 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-20 14:14:14,366 [Worker-14: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of _java_config_security
+2023-06-20 14:14:14,366 [Worker-14: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for _java_config_security
+2023-06-20 14:14:14,367 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-eclipse-plugin:jar:3.8.0 is missing, no dependency information available
+2023-06-20 14:14:14,368 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-eclipse-plugin:3.8.0: Plugin org.apache.maven.plugins:maven-eclipse-plugin:3.8.0 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-eclipse-plugin:jar:3.8.0 has not been downloaded from it before.
+2023-06-20 14:14:14,368 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:exec-maven-plugin:jar:2.5 is missing, no dependency information available
+2023-06-20 14:14:14,368 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:exec-maven-plugin:2.5: Plugin org.codehaus.mojo:exec-maven-plugin:2.5 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:exec-maven-plugin:jar:2.5 has not been downloaded from it before.
+2023-06-20 14:14:14,369 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-eclipse-plugin:jar:3.8.0 is missing, no dependency information available
+2023-06-20 14:14:14,369 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-eclipse-plugin:3.8.0: Plugin org.apache.maven.plugins:maven-eclipse-plugin:3.8.0 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-eclipse-plugin:jar:3.8.0 has not been downloaded from it before.
+2023-06-20 14:14:14,369 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:exec-maven-plugin:jar:2.5 is missing, no dependency information available
+2023-06-20 14:14:14,370 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:exec-maven-plugin:2.5: Plugin org.codehaus.mojo:exec-maven-plugin:2.5 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:exec-maven-plugin:jar:2.5 has not been downloaded from it before.
+2023-06-20 14:14:14,372 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:33:43,751 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:33:43,753 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:33:43,753 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:33:43,754 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:34:37,177 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:34:37,178 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:34:37,178 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:34:37,179 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:35:03,653 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:35:03,653 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:35:03,654 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:35:03,654 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:35:17,049 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:35:17,049 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:35:17,050 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:35:17,050 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:35:41,636 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:35:41,637 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:35:41,637 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:35:41,638 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:35:47,557 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:35:47,557 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:35:47,558 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:35:47,558 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:35:59,462 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:35:59,462 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:35:59,463 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:35:59,463 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:36:15,633 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:36:15,633 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:36:15,634 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:36:15,634 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:36:19,825 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:36:19,825 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:36:19,826 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:36:19,826 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:36:26,248 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:36:26,248 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:36:26,249 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:36:26,249 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:36:54,751 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:36:54,752 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:36:54,752 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:36:54,753 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:37:03,625 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:37:03,625 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2023-06-20 14:37:03,626 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:37:03,627 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:45:21,146 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:45:21,147 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2023-06-20 14:45:21,148 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:45:21,148 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:45:26,996 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:45:26,996 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2023-06-20 14:45:26,997 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:45:26,997 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:45:38,617 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:45:38,618 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2023-06-20 14:45:38,620 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:45:38,620 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:45:52,188 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:45:52,189 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2023-06-20 14:45:52,190 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:45:52,190 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:46:07,271 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:46:07,272 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2023-06-20 14:46:07,272 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:46:07,273 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:46:13,362 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:46:13,363 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2023-06-20 14:46:13,364 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:46:13,364 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:52:33,553 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:52:33,554 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2023-06-20 14:52:33,555 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:52:33,555 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:52:36,765 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:52:36,765 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2023-06-20 14:52:36,766 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:52:36,767 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:58:59,474 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:58:59,475 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:58:59,475 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:58:59,476 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

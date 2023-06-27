@@ -1,0 +1,38 @@
+package com.myweb.www;
+
+import javax.inject.Inject;
+
+import org.junit.Test;
+import org.junit.runner.RunWith;
+
+import com.myweb.www.domain.BoardVO;
+import com.myweb.www.repository.BoardDAO;
+
+import lombok.extern.slf4j.Slf4j;
+
+@Slf4j
+@RunWith(SpringJUnit4ClassRunner.class)
+@context
+public class BoardTest {
+
+	@Inject
+	private BoardDAO bdao;
+	
+	@Test
+	public void insertBoard() {
+		log.info("test insert");
+		BoardVO bvo = new BoardVO();
+		bvo.setTitle("Test Title");
+		bvo.setContent("Test Content");
+		bvo.setWriter("tester");
+		
+		bdao.insertBoard(bvo);
+	}
+	
+	@Test
+	public void selectBoard() {
+		log.info("test insert");
+		BoardVO bvo = new BoardVO();
+		bvo = bdao.selectBoard(1);
+	}
+}

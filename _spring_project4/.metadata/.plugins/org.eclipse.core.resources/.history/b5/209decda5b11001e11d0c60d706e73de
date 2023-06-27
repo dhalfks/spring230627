@@ -1,0 +1,12 @@
+package com.myweb.com.board;
+
+import org.junit.runner.RunWith;
+import org.springframework.test.context.ContextConfiguration;
+
+import lombok.extern.slf4j.Slf4j;
+@Slf4j
+@RunWith
+@ContextConfiguration(classes = {com.myweb.www.config.RootConfig.class})
+public class BoardTest {
+
+}

@@ -1,0 +1,9 @@
+package com.myweb.www.config;
+
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
+
+@ComponentScan(basePackages = {"com.myweb.www.controller"})
+public class ServletConfiguration implements WebMvcConfigurer {
+
+}
